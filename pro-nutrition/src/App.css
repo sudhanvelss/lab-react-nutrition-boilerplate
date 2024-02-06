@@ -1,0 +1,51 @@
+*{
+    font-family: monospace;
+  }
+  .root123{
+    display: flex;
+    align-items: center;
+    
+  }
+  img{
+    margin-left: 10px;
+    margin-right: 80px;
+    height: 80px;
+    width: 100px;
+  }
+  #div2{
+    margin-top: 50px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+  }
+  #div2 button{
+    margin-left: 20px;
+    height: 30px;
+    width: 60px;
+    background-color: #727372;
+  }
+  input{
+    border: 2px solid #754A8A;
+  }
+  .div1{
+    width: 550px;
+    background-color: #E3E9E2;
+    height: 100px;
+    margin-top: 50px;
+    display: flex; 
+    align-items: center;
+  }
+  .div1 input{
+    height: 18px;
+    border: 2px solid #754A8A;
+  }
+  .div1 button{
+    color: white;
+    height: 24px;
+    background-color: #754A8A;
+  }
+  #nameCal{
+    margin-right: 80px;
+    display: flex;
+    flex-direction: column;
+  }
